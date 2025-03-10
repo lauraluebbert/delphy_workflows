@@ -4,5 +4,10 @@ https://colab.research.google.com/github/lauraluebbert/delphy_workflows/blob/mai
 Download data from NCBI virus and create a phylogenetic tree with Delphy:  
 https://colab.research.google.com/github/lauraluebbert/delphy_workflows/blob/main/delphy_workflow.ipynb
 
-Delphy workflow tutorial with SARS-CoV-2:    
-https://colab.research.google.com/github/lauraluebbert/delphy_workflows/blob/main/delphy_workflow_sars_example.ipynb
+Delphy workflow tutorial (blank notebook):    
+Temporary: https://colab.research.google.com/github/lauraluebbert/delphy/blob/main/tutorials/delphy_workflow.ipynb  
+Soon: https://colab.research.google.com/github/broadinstitute/delphy/blob/main/tutorials/delphy_workflow.ipynb  
+
+Delphy workflow tutorial (SARS-CoV-2 example):    
+Temporary: https://colab.research.google.com/github/broadinstitute/delphy/blob/main/tutorials/delphy_workflow_sars_example.ipynb  
+Soon: https://colab.research.google.com/github/broadinstitute/delphy/blob/main/tutorials/delphy_workflow_sars_example.ipynb 
