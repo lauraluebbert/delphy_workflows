@@ -9,5 +9,5 @@ Temporary: https://colab.research.google.com/github/lauraluebbert/delphy/blob/ma
 Soon: https://colab.research.google.com/github/broadinstitute/delphy/blob/main/tutorials/delphy_workflow.ipynb  
 
 Delphy workflow tutorial (SARS-CoV-2 example):    
-Temporary: https://colab.research.google.com/github/broadinstitute/delphy/blob/main/tutorials/delphy_workflow_sars_example.ipynb  
+Temporary: https://colab.research.google.com/github/lauraluebbert/delphy/blob/main/tutorials/delphy_workflow_sars_example.ipynb  
 Soon: https://colab.research.google.com/github/broadinstitute/delphy/blob/main/tutorials/delphy_workflow_sars_example.ipynb 
